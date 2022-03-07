@@ -4,10 +4,10 @@
     "url": "https://wolf.istmo.tecnm.mx",
     "icon": "https://favicons.githubusercontent.com/wolf.istmo.tecnm.mx",
     "slug": "core-istmo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.66%",
     "time": 432,
@@ -16,6 +16,7 @@
     "timeMonth": 432,
     "timeYear": 432,
     "dailyMinutesDown": {
+      "2022-03-07": 2,
       "2022-02-19": 17,
       "2022-02-14": 88
     }
@@ -25,18 +26,19 @@
     "url": "https://sit.istmo.tecnm.mx",
     "icon": "https://favicons.githubusercontent.com/sit.istmo.tecnm.mx",
     "slug": "cliente-istmo",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 305,
     "timeDay": 300,
     "timeWeek": 293,
     "timeMonth": 305,
     "timeYear": 305,
     "dailyMinutesDown": {
+      "2022-03-07": 1,
       "2022-02-14": 139
     }
   },
@@ -45,10 +47,10 @@
     "url": "https://pagos.itistmo.edu.mx",
     "icon": "https://favicons.githubusercontent.com/pagos.itistmo.edu.mx",
     "slug": "sistema-de-pagos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 776,
@@ -56,7 +58,9 @@
     "timeWeek": 578,
     "timeMonth": 776,
     "timeYear": 776,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-07": 1
+    }
   },
   {
     "name": "SII - ItIstmo",
@@ -81,9 +85,9 @@
     "url": "https://recursos.wolf.istmo.tecnm.mx",
     "icon": "https://favicons.githubusercontent.com/recursos.wolf.istmo.tecnm.mx",
     "slug": "recursos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.72%",
@@ -93,6 +97,7 @@
     "timeMonth": 458,
     "timeYear": 458,
     "dailyMinutesDown": {
+      "2022-03-07": 0,
       "2022-02-14": 87
     }
   }
