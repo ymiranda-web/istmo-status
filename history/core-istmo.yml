@@ -1,7 +1,7 @@
 url: https://wolf.istmo.tecnm.mx
-status: down
-code: 503
-responseTime: 291
-lastUpdated: 2022-10-09T23:06:11.418Z
+status: up
+code: 200
+responseTime: 315
+lastUpdated: 2022-10-10T20:48:11.868Z
 startTime: Sun Feb 13 2022 15:54:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
