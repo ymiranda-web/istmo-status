@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wolf.istmo.tecnm.mx.ico",
     "slug": "core-istmo",
     "status": "up",
-    "uptime": "77.21%",
+    "uptime": "77.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.46%",
     "uptimeYear": "71.74%",
     "time": 337,
-    "timeDay": 279,
-    "timeWeek": 304,
-    "timeMonth": 313,
+    "timeDay": 306,
+    "timeWeek": 298,
+    "timeMonth": 314,
     "timeYear": 334,
     "dailyMinutesDown": {
       "2023-09-07": 1418,
@@ -140,8 +140,7 @@
       "2022-10-07": 1440,
       "2022-10-06": 578,
       "2022-09-29": 1043,
-      "2022-09-28": 1440,
-      "2022-09-27": 922
+      "2022-09-28": 1440
     }
   },
   {
@@ -150,15 +149,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sit.istmo.tecnm.mx.ico",
     "slug": "cliente-istmo",
     "status": "up",
-    "uptime": "79.12%",
+    "uptime": "79.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.46%",
     "uptimeYear": "74.73%",
     "time": 298,
-    "timeDay": 238,
-    "timeWeek": 253,
-    "timeMonth": 276,
+    "timeDay": 274,
+    "timeWeek": 255,
+    "timeMonth": 278,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2023-09-07": 1418,
@@ -274,8 +273,7 @@
       "2022-10-17": 311,
       "2022-10-06": 135,
       "2022-09-29": 1043,
-      "2022-09-28": 1440,
-      "2022-09-27": 921
+      "2022-09-28": 1440
     }
   },
   {
@@ -284,16 +282,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pagos.itistmo.edu.mx.ico",
     "slug": "sistema-de-pagos",
     "status": "up",
-    "uptime": "95.10%",
+    "uptime": "95.11%",
     "uptimeDay": "98.16%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "93.91%",
     "uptimeYear": "92.92%",
-    "time": 808,
-    "timeDay": 495,
-    "timeWeek": 1129,
-    "timeMonth": 762,
-    "timeYear": 847,
+    "time": 807,
+    "timeDay": 783,
+    "timeWeek": 1189,
+    "timeMonth": 777,
+    "timeYear": 848,
     "dailyMinutesDown": {
       "2023-09-26": 26,
       "2023-09-06": 1327,
@@ -340,8 +338,7 @@
       "2022-11-15": 38,
       "2022-11-13": 1041,
       "2022-11-12": 1271,
-      "2022-10-17": 258,
-      "2022-09-27": 610
+      "2022-10-17": 258
     }
   },
   {
@@ -356,10 +353,10 @@
     "uptimeMonth": "93.97%",
     "uptimeYear": "95.16%",
     "time": 532,
-    "timeDay": 267,
-    "timeWeek": 1493,
-    "timeMonth": 627,
-    "timeYear": 533,
+    "timeDay": 322,
+    "timeWeek": 1027,
+    "timeMonth": 628,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2023-09-06": 1327,
       "2023-09-05": 1297,
@@ -399,8 +396,7 @@
       "2022-11-13": 1041,
       "2022-11-12": 1270,
       "2022-10-17": 258,
-      "2022-10-06": 96,
-      "2022-09-27": 610
+      "2022-10-06": 96
     }
   },
   {
@@ -409,15 +405,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/recursos.wolf.istmo.tecnm.mx.ico",
     "slug": "recursos",
     "status": "up",
-    "uptime": "79.13%",
+    "uptime": "79.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.44%",
     "uptimeYear": "74.74%",
     "time": 447,
-    "timeDay": 349,
-    "timeWeek": 392,
-    "timeMonth": 393,
+    "timeDay": 391,
+    "timeWeek": 388,
+    "timeMonth": 395,
     "timeYear": 455,
     "dailyMinutesDown": {
       "2023-09-07": 1418,
@@ -531,8 +527,7 @@
       "2022-10-17": 309,
       "2022-10-06": 133,
       "2022-09-29": 1043,
-      "2022-09-28": 1440,
-      "2022-09-27": 919
+      "2022-09-28": 1440
     }
   }
 ]
