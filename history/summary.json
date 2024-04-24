@@ -11,12 +11,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "60.93%",
     "time": 329,
-    "timeDay": 0,
-    "timeWeek": 302,
+    "timeDay": 264,
+    "timeWeek": 306,
     "timeMonth": 288,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2024-04-23": 1370,
+      "2024-04-24": 30,
+      "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
@@ -175,8 +176,7 @@
       "2023-04-29": 1440,
       "2023-04-28": 693,
       "2023-04-27": 1440,
-      "2023-04-26": 1440,
-      "2023-04-25": 1440
+      "2023-04-26": 1440
     }
   },
   {
@@ -186,14 +186,14 @@
     "slug": "cliente-istmo",
     "status": "up",
     "uptime": "78.31%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "6.98%",
     "uptimeWeek": "29.95%",
     "uptimeMonth": "83.82%",
-    "uptimeYear": "69.13%",
+    "uptimeYear": "69.15%",
     "time": 297,
-    "timeDay": 284,
-    "timeWeek": 288,
-    "timeMonth": 290,
+    "timeDay": 280,
+    "timeWeek": 285,
+    "timeMonth": 291,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2024-04-23": 1370,
@@ -325,8 +325,7 @@
       "2023-04-29": 1440,
       "2023-04-28": 692,
       "2023-04-27": 1440,
-      "2023-04-26": 1440,
-      "2023-04-25": 1440
+      "2023-04-26": 1440
     }
   },
   {
@@ -340,11 +339,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.40%",
-    "time": 849,
-    "timeDay": 5622,
-    "timeWeek": 1399,
-    "timeMonth": 894,
-    "timeYear": 783,
+    "time": 848,
+    "timeDay": 622,
+    "timeWeek": 1410,
+    "timeMonth": 896,
+    "timeYear": 784,
     "dailyMinutesDown": {
       "2024-01-20": 57,
       "2024-01-10": 49,
@@ -382,10 +381,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.62%",
     "time": 566,
-    "timeDay": 376,
-    "timeWeek": 609,
-    "timeMonth": 672,
-    "timeYear": 626,
+    "timeDay": 407,
+    "timeWeek": 606,
+    "timeMonth": 674,
+    "timeYear": 627,
     "dailyMinutesDown": {
       "2024-01-22": 69,
       "2024-01-20": 189,
@@ -425,14 +424,14 @@
     "slug": "recursos",
     "status": "up",
     "uptime": "78.32%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "6.98%",
     "uptimeWeek": "29.95%",
     "uptimeMonth": "83.82%",
-    "uptimeYear": "69.14%",
+    "uptimeYear": "69.16%",
     "time": 438,
-    "timeDay": 439,
-    "timeWeek": 414,
-    "timeMonth": 415,
+    "timeDay": 407,
+    "timeWeek": 421,
+    "timeMonth": 416,
     "timeYear": 432,
     "dailyMinutesDown": {
       "2024-04-23": 1370,
@@ -562,8 +561,7 @@
       "2023-04-29": 1440,
       "2023-04-28": 686,
       "2023-04-27": 1440,
-      "2023-04-26": 1440,
-      "2023-04-25": 1440
+      "2023-04-26": 1440
     }
   }
 ]
