@@ -1,7 +1,7 @@
 url: https://pagos.itistmo.edu.mx
-status: up
-code: 200
-responseTime: 578
-lastUpdated: 2024-06-03T23:05:19.545Z
+status: down
+code: 502
+responseTime: 1434
+lastUpdated: 2024-06-04T17:43:31.203Z
 startTime: 2022-02-13T15:54:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
