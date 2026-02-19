@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "67.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.37%",
+    "uptimeWeek": "98.74%",
     "uptimeMonth": "43.34%",
-    "uptimeYear": "45.87%",
+    "uptimeYear": "45.89%",
     "time": 348,
-    "timeDay": 325,
-    "timeWeek": 347,
-    "timeMonth": 361,
+    "timeDay": 315,
+    "timeWeek": 343,
+    "timeMonth": 360,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2026-02-12": 194,
@@ -226,8 +226,7 @@
       "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
-      "2025-02-20": 1440,
-      "2025-02-19": 1440
+      "2025-02-20": 1440
     }
   },
   {
@@ -238,13 +237,13 @@
     "status": "up",
     "uptime": "71.32%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.37%",
+    "uptimeWeek": "98.74%",
     "uptimeMonth": "43.34%",
-    "uptimeYear": "47.96%",
+    "uptimeYear": "47.98%",
     "time": 306,
-    "timeDay": 291,
-    "timeWeek": 307,
-    "timeMonth": 311,
+    "timeDay": 288,
+    "timeWeek": 304,
+    "timeMonth": 308,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2026-02-12": 194,
@@ -451,8 +450,7 @@
       "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
-      "2025-02-20": 1440,
-      "2025-02-19": 1440
+      "2025-02-20": 1440
     }
   },
   {
@@ -467,9 +465,9 @@
     "uptimeMonth": "95.23%",
     "uptimeYear": "91.81%",
     "time": 998,
-    "timeDay": 723,
-    "timeWeek": 1199,
-    "timeMonth": 931,
+    "timeDay": 584,
+    "timeWeek": 1192,
+    "timeMonth": 930,
     "timeYear": 1058,
     "dailyMinutesDown": {
       "2026-02-06": 1121,
@@ -537,18 +535,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sii.itistmo.edu.mx.ico",
     "slug": "sii-it-istmo",
     "status": "down",
-    "uptime": "94.57%",
+    "uptime": "94.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "28.68%",
-    "uptimeYear": "85.57%",
+    "uptimeMonth": "28.36%",
+    "uptimeYear": "85.54%",
     "time": 574,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 723,
-    "timeYear": 622,
+    "timeMonth": 757,
+    "timeYear": 623,
     "dailyMinutesDown": {
-      "2026-02-18": 1369,
+      "2026-02-19": 67,
+      "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
@@ -630,14 +629,14 @@
     "status": "up",
     "uptime": "76.64%",
     "uptimeDay": "97.06%",
-    "uptimeWeek": "96.94%",
+    "uptimeWeek": "98.31%",
     "uptimeMonth": "43.25%",
-    "uptimeYear": "64.69%",
+    "uptimeYear": "64.72%",
     "time": 465,
-    "timeDay": 1621,
-    "timeWeek": 731,
-    "timeMonth": 633,
-    "timeYear": 475,
+    "timeDay": 1619,
+    "timeWeek": 696,
+    "timeMonth": 632,
+    "timeYear": 474,
     "dailyMinutesDown": {
       "2026-02-18": 42,
       "2026-02-12": 195,
@@ -787,8 +786,7 @@
       "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
-      "2025-02-20": 1440,
-      "2025-02-19": 1440
+      "2025-02-20": 1440
     }
   }
 ]
